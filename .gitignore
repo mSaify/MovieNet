@@ -1,0 +1,5 @@
+packages/
+MovieNetApi/bin/
+MovieNetApi/obj/
+MovieNet.Domain/obj/
+MovieNet.Domain/bin/
